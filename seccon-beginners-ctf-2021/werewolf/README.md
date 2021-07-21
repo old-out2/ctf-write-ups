@@ -19,7 +19,8 @@ for k, v in request.form.items():
 
 こちらを読んで理解したので回答のコードを書く
 
-<details><summary>コード一覧</summary><div>
+<details><summary>コード</summary><div>
+コード全文
 ```
 import requests
 def request():
@@ -28,7 +29,7 @@ def request():
         'color': 'YELLO',
         '_Player__role': 'WEREWOLF'
     }
-    req = requests.post('http://0.0.0.0:8082/', data=data)
+    req = requests.post('{url}', data=data)
     body = req.content.decode()
     print(body)
 if __name__ == '__main__':
