@@ -5,7 +5,9 @@
 
 https://osoba.quals.beginners.seccon.jp/
 
-ディレクトリ指定の形なので、親階層にある/flagを見つける
+urlの形が'?page='の形で表される  
+配布資料のディレクトリ構造を見ると`public`ディレクトリからhtmlを取得しているのが分かる  
+ディレクトリ指定の形を使って、親階層にある/flagを見つける
 
 ```
 ?page=../flag
