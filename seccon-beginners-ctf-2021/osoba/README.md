@@ -12,5 +12,6 @@ https://osoba.quals.beginners.seccon.jp/
 ```
 
 
-## flag
+<details><summary>flag</summary><div>
 ctf4b{omisoshiru_oishi_keredomo_tsukuruno_taihen}
+</div></details>
