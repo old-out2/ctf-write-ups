@@ -1,4 +1,4 @@
-# writeup
+# werewolf
 
 配布されたpythonのコードを読み込む
 
@@ -19,7 +19,7 @@ for k, v in request.form.items():
 
 こちらを読んで理解したので回答のコードを書く
 
-<details><summary>コード</summary><div>
+<details><summary>回答コード一覧</summary><div>
     
 ```python
 import requests
