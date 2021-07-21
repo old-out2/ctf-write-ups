@@ -19,7 +19,7 @@ for k, v in request.form.items():
 
 こちらを読んで理解したので回答のコードを書く
 
-<details><summary>コード</summary><div>
+<details><summary>コード</summary>
 コード全文
 ```
 import requests
@@ -35,7 +35,7 @@ def request():
 if __name__ == '__main__':
     request()
 ```
-</div></details>
+</details>
 
 <details><summary>flag</summary><div>
 ctf4b{there_are_so_many_hackers_among_us}
