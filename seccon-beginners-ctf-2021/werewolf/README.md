@@ -15,7 +15,9 @@ for k, v in request.form.items():
 
 ```
 上記のPlayerクラスのプライベート関数の__roleを手に入れたい
+
 [Pythonのプライベート変数の振る舞いについて](https://qiita.com/marmalade_boy/items/dd78c460ceb639c023ad)
+
 こちらを読んで理解したので回答のコードを書く
 
 <details><summary>flag</summary><div>
