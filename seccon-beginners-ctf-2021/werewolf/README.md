@@ -20,7 +20,6 @@ for k, v in request.form.items():
 こちらを読んで理解したので回答のコードを書く
 
 <details><summary>コード</summary>
-コード全文  
 ```
 import requests
 def request():
