@@ -1,4 +1,4 @@
-challをredare2で確認しながらpythonのコードを書く
+challをredare2で確認しながらpythonのコードを書く  
 cmpが何回も行われているのでそれを抽出すればよい
 
 <details><summary>回答コード一覧</summary><div>
