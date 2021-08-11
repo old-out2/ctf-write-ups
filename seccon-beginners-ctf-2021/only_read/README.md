@@ -1,7 +1,5 @@
-```
-r2 -A ../chall
-```
-
+<details><summary>回答コード一覧</summary><div>
+    
 ```python
 import angr
 
@@ -26,3 +24,9 @@ def solve():
 if __name__ == '__main__':
     print(solve())
 ```
+<div>
+</details>
+    
+<details><summary>flag</summary><div>
+ctf4b{c0n5t4nt_f0ld1ng}
+</div></details>
